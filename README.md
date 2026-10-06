@@ -26,6 +26,7 @@ Mi diferencial: **convierto datos en decisiones y procesos formativos en resulta
 
 ## 🎓 Formación
 
+- **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** — SENA, Perfil de Egresado: Analista y desarrollador de software en ambientes web y móviles
 - Diplomado en Habilidades en Programación (Universidad Nacional & MinTIC)
 - Formación por Competencias para Formadores en Transición Digital (OIT/Cinterfor)
 - Analítica de Datos DS4A / Colombia (Correlation One & MinTIC)
