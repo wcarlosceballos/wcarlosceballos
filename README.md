@@ -2,7 +2,7 @@
 
 **Consultor TI & Formador Digital** — Diseño Instruccional por competencias aplicado a IA y software
 
-📍 Colombia · 🤝 Disponible para proyectos remotos e híbridos
+📍 **Lorica, Córdoba** · operación regular en **Sincelejo (Sucre)** · 🤝 Disponible para proyectos remotos e híbridos
 
 📄 **[Hoja de vida completa](https://github.com/wcarlosceballos/Curriculum)** · ver también en [LinkedIn](https://www.linkedin.com/in/wcarlosceballos)
 
