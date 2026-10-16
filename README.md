@@ -53,6 +53,8 @@ requerimientos con stakeholders reales.
 | **[curso-desarrollo-ia](https://github.com/wcarlosceballos/curso-desarrollo-ia)** | Curso de 3 días sobre desarrollo con IA: prompting, harness de desarrollo, SDD y sistemas multiagentes. Incluye OVA, rúbrica de evaluación por competencias y banco de preguntas. · **[Demo en vivo](https://wcarlosceballos.github.io/curso-desarrollo-ia/)** |
 | **[curso-git](https://github.com/wcarlosceballos/curso-git)** | OVA pedagógica sobre Git, con diagnóstico de entrada, módulos con retos y progreso persistente. · **[Demo en vivo](https://wcarlosceballos.github.io/curso-git/)** |
 | **[tdc-V01](https://github.com/wcarlosceballos/tdc-V01)** | Diseño y análisis de una unidad de negocio de servicios tecnológicos: modelo de datos, flujo documental y alcance de la demo. |
+| **[pdf-to-online-course-kit](https://github.com/wcarlosceballos/pdf-to-online-course-kit)** | Metodología para transformar un curso contenido en PDF en un curso online interactivo: 11 etapas, ADDIE + diseño inverso + DUA + WCAG 2.2 AA. Es el motor que uso para producir las OBAs. |
+| **[panel-ias](https://github.com/wcarlosceballos/panel-ias)** | Aplicación de escritorio (Electron) que mantiene varias herramientas de IA en una sola ventana, cada una con su sesión persistente. |
 
 ### Anteriores
 
