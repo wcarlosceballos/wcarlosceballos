@@ -4,6 +4,8 @@
 
 📍 Colombia · 🤝 Disponible para proyectos remotos e híbridos
 
+📄 **[Hoja de vida completa](https://github.com/wcarlosceballos/Curriculum)** · ver también en [LinkedIn](https://www.linkedin.com/in/wcarlosceballos)
+
 > Construyo **capacitaciones que se miden** y **software que se entrega**. Mi trabajo une
 > diseño instruccional por competencias, IA aplicada y desarrollo de software — y siempre
 > con entregables verificables, no promesas.
