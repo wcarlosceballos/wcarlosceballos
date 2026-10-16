@@ -12,6 +12,36 @@
 
 ---
 
+## 💼 Trayectoria
+
+Más de una década en tecnología: la mitad enseñando y la otra mitad construyendo.
+Experiencia en organismos de cooperación internacional y en el sector privado.
+
+| Periodo | Rol | Dónde |
+|---|---|---|
+| 2026 – actual | Consultor Independiente — Transformación digital y desarrollo web | Remoto |
+| 2024 – 2025 | **Consultor de Formación Profesional Integral**, proyecto **SENATIC** | **OIT**, Países Andinos (MinTIC + SENA) |
+| 2024 | Analista e Ingeniero de Soporte Tecnológico | SL Servicios Latam S.A.S. |
+| 2012 – actual | Docente del Área de Sistemas | Instituto A&M – ICAM |
+
+En la OIT diseñé y ejecuté procesos de formación con **atención directa a 73 estudiantes**
+en tres instituciones educativas rurales de San Bernardo del Viento, Córdoba, e identifiqué
+los factores asociados a la deserción para orientar las mejoras del programa.
+
+En SL Servicios Latam di soporte de infraestructura a **aplicaciones web progresivas de
+gestión HSEQ en el sector Oil & Gas**, y desarrollé funcionalidades nuevas en JavaScript
+para el frontend de la compañía.
+
+---
+
+## 🎯 Qué busco
+
+Disponible para **soporte técnico de TI**, **desarrollador web junior** o **formación técnica**.
+Cada perfil tiene su versión de la hoja de vida ajustada al cargo; escríbeme y te envío
+la que corresponda.
+
+---
+
 ## 🎓 Demostraciones en vivo
 
 Dos OBAs (objetos de aprendizaje virtuales) completos, funcionando en el navegador. Sin
@@ -70,7 +100,7 @@ requerimientos con stakeholders reales.
 
 ## 🎓 Formación
 
-- **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** — SENA
+- **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** — SENA · *en curso, evaluación final en proceso, titulación prevista 2026*
 - **Diplomado en Habilidades de Programación** (énfasis en aplicaciones web) — Universidad Nacional & MinTIC · 800 h
 - **Formación por Competencias y Habilidades Digitales para Formadores en Transición Digital** — OIT / Cinterfor · 100 h
 - **Fundamentos en Analítica de Datos (DS4A / Colombia)** — Correlation One & MinTIC · 90 h
