@@ -56,10 +56,11 @@ requerimientos con stakeholders reales.
 
 | Proyecto | Año | Descripción |
 |---|---|---|
-| [app-webinser](https://github.com/wcarlosceballos/app-webinser) | 2024 | Sistema de gestión de notas para institución educativa (PHP, MySQL) |
-| [Documentacion-app-webinser](https://github.com/wcarlosceballos/Documentacion-app-webinser) | 2024 | Documentación técnica y de usuario del sistema anterior |
-| [SGA](https://github.com/wcarlosceballos/SGA) | 2024 | Sistema de gestión de notas |
-| [taller](https://github.com/wcarlosceballos/taller) | 2024 | Material del taller de informática básica |
+| [app-webinser](https://github.com/wcarlosceballos/app-webinser) | 2024 | Sistema de gestión de notas para institución educativa — PHP, MySQL, portal docente / estudiante / administrador, reportes y estadísticas |
+| [taller](https://github.com/wcarlosceballos/taller) | 2024 | Material del taller de informática básica y software libre |
+
+> Dos repositorios anteriores (`SGA`, `Documentacion-app-webinser`) quedaron archivados: solo
+> contenían un README y describían un sistema que en realidad vive en `app-webinser`.
 
 ---
 
