@@ -21,7 +21,7 @@ Experiencia en organismos de cooperación internacional y en el sector privado.
 |---|---|---|
 | 2026 – actual | Consultor Independiente — Transformación digital y desarrollo web | Remoto |
 | 2024 – 2025 | **Consultor de Formación Profesional Integral**, proyecto **SENATIC** | **OIT**, Países Andinos (MinTIC + SENA) |
-| 2024 | Analista e Ingeniero de Soporte Tecnológico | SL Servicios Latam S.A.S. |
+| Ene. 2024 – May. 2024 | Analista e Ingeniero de Soporte Tecnológico | SL Servicios Latam S.A.S. |
 | 2012 – actual | Docente del Área de Sistemas | Instituto A&M – ICAM |
 
 En la OIT diseñé y ejecuté procesos de formación con **atención directa a 73 estudiantes**
